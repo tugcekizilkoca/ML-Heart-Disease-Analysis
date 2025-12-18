@@ -80,10 +80,6 @@ Bu proje, temel bir sağlık verisi üzerinde **makine öğrenmesi pipeline’ı
 
 ---
 
-## 👤 Yazar
 
-* GitHub: [https://github.com/KULLANICI_ADI](https://github.com/KULLANICI_ADI)
-
----
 
 ⭐ Repo hoşuna gittiyse yıldızlamayı unutma!
